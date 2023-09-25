@@ -1,1 +1,1 @@
-# .github
+[Service Design Collective](https://servicedesigncollective.com) is a public benefit corporation founded and run by alumni of the United States Digital Service. We use service design to help our partners look beyond a single feature, product, or organization and deliver better outcomes for governments and the people they serve. Our team has advised three U.S. presidents and dozens of federal government agencies, U.S. states, foreign governments, and international organizations on public service design.
